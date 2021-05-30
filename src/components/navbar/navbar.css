@@ -1,0 +1,13 @@
+.mynav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    height: 10vh;
+    width: 100vw;
+    font-size: 1.5em;
+    color: white;
+    text-decoration: none;
+    color : blue;
+
+}
